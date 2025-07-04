@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avantikashukla03&label=Profile%20views&color=0e75b6&style=flat" alt="avantikashukla03" /> </p>
 
-- 🌱 I’m currently learning **Bachelor's of computer applications**
+- 🌱 I’m currently Pursuing **Bachelor's of computer applications**
 
 - 💬 Ask me about **Html,Css,Javascript,C++,C.**
 
@@ -13,7 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/avantika shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avantika shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/avantikashukla03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avantikashukla03" height="30" width="40" /></a>
+<a href="https://instagram.com/avantikashukla03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avantikashukla03" height="30" width="40" margin-bottom: 20px;
+ /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,7 +31,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently Pursuing ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
